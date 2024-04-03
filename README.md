@@ -1,5 +1,5 @@
-# think-call
-I didnt passed the test because of the time complexity reason but you can ,if you optimise this code and deacrease time complexity
+# think-cell
+I didnt passed the test because of the time complexity reason but you can ,if you optimise this code and decrease time complexity
 # interval_map<K,V> Data Structure Implementation
 
 The `interval_map<K,V>` data structure associates keys of type `K` with values of type `V`. It is designed to efficiently handle situations where intervals of consecutive keys are associated with the same value.
