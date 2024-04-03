@@ -62,4 +62,5 @@ The representation in the `std::map` must be canonical, meaning consecutive map 
 - Does not implement any other operations.
 
 For more information on `std::map`, you may refer to [cppreference.com](https://en.cppreference.com/w/cpp/container/map).
+![Screenshot (231)](https://github.com/Tukesh1/think-cell/assets/115998898/e7560ef9-423e-49da-8822-f3f0b4b8ba6f)
 
